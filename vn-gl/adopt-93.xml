@@ -20,7 +20,7 @@
         </THEMROLE>
     </THEMROLES>
     <FRAMES>
-        <FRAME>
+        <FRAME sfcomment="First example of fairly generic scn">
             <DESCRIPTION descriptionNumber="0.2" primary="NP V NP" secondary="Basic Transitive" xtag="0.2"/>
             <EXAMPLES>
                 <EXAMPLE>
@@ -28,11 +28,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

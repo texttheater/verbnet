@@ -36,14 +36,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Agent">
+                <NP value="Co-Agent" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -65,14 +65,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -104,11 +104,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xsnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="msgd">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="sc_to_inf"/>
                             </SYNRESTRS>

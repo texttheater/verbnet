@@ -20,13 +20,13 @@
         </THEMROLE>
     </THEMROLES>
     <FRAMES>
-        <FRAME>
+        <FRAME sfcomment="This class: good example of many different core roles">
             <DESCRIPTION descriptionNumber="1.1.1" primary="NP V ADVP-Middle PP" secondary="Middle Construction" xtag=""/>
             <EXAMPLES>
                 <EXAMPLE>The folk songs alternated well with pop songs.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Patient">
+                <NP value="Patient" sf="sucd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -34,7 +34,7 @@
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Patient">
+                <NP value="Co-Patient" sf="sucr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -61,7 +61,7 @@
                 <EXAMPLE>The pieces interconnected easily.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Patient">
+                <NP value="Patient" sf="locd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="plural"/>
                     </SYNRESTRS>
@@ -115,17 +115,17 @@
                         <EXAMPLE>Diabetics can now incorporate sugar into their desserts.</EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="whld">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="into to with">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Co-Patient">
+                        <NP value="Co-Patient" sf="whlr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -164,11 +164,11 @@
                         <EXAMPLE>A new firm will integrate their ice cream production lines.</EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="whld">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="plural"/>
                             </SYNRESTRS>
@@ -209,14 +209,14 @@
                         <EXAMPLE>Ice cream integrates with desserts.</EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="whld">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
                         <PREP value="with">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Co-Patient">
+                        <NP value="Co-Patient" sf="xanc">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -256,7 +256,7 @@
                                 <EXAMPLE>The yolks and the whites intermingled.</EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Patient">
+                                <NP value="Patient" sf="whld">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="+" type="plural"/>
                                     </SYNRESTRS>
@@ -353,17 +353,17 @@
                         <EXAMPLE>The merger associated company A with company B.</EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="socd">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="with">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Co-Patient">
+                        <NP value="Co-Patient" sf="socr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -402,11 +402,11 @@
                         <EXAMPLE>The merger associated the two companies.</EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="socd">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="plural"/>
                             </SYNRESTRS>
@@ -447,14 +447,14 @@
                         <EXAMPLE>Company A associated with Company B.</EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="socd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
                         <PREP value="with">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Co-Patient">
+                        <NP value="Co-Patient" sf="socr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -514,7 +514,7 @@
                                 <EXAMPLE>Plays and ballets alternate.</EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Patient">
+                                <NP value="Patient" sf="sucd">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="+" type="plural"/>
                                     </SYNRESTRS>
@@ -555,11 +555,11 @@
                         <EXAMPLE>John opposed the two ideas.</EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="cmpd">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="plural"/>
                             </SYNRESTRS>
@@ -609,17 +609,17 @@
                                 <EXAMPLE>John introduced Mary to me.</EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xcau">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Patient">
+                                <NP value="Patient" sf="socd">
                                    <SYNRESTRS/>
                                 </NP>
                                 <PREP value="to">
                                     <SELRESTRS/>
                                 </PREP>
-                                <NP value="Co-Patient">
+                                <NP value="Co-Patient" sf="socr">
                                     <SYNRESTRS/>
                                 </NP>
                             </SYNTAX>
@@ -684,7 +684,7 @@
                                         <EXAMPLE>John and Mary married.</EXAMPLE>
                                     </EXAMPLES>
                                     <SYNTAX>
-                                        <NP value="Patient">
+                                        <NP value="Patient" sf="socd">
                                             <SYNRESTRS>
                                                 <SYNRESTR Value="+" type="plural"/>
                                             </SYNRESTRS>
@@ -739,7 +739,7 @@
                                 <EXAMPLE>John and Mary are engaged.</EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Patient">
+                                <NP value="Patient" sf="socd">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="+" type="plural"/>
                                     </SYNRESTRS>

@@ -25,11 +25,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="socd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Goal">
+                        <NP value="Goal" sf="socr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -61,14 +61,14 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="socd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
                         <PREP>
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Goal">
+                        <NP value="Goal" sf="socr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>

@@ -24,11 +24,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Goal">
+                <NP value="Goal" sf="locr">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -37,7 +37,7 @@
                     <ARGS>
                         <ARG type="Event" value="e1"/>
                         <ARG type="ThemRole" value="Goal"/>
-                        <ARG type="ThemRole" value="Theme"/>
+                        <ARG type="ThemRole" value="Theme" />
                     </ARGS>
                 </PRED>
             </SEMANTICS>
@@ -50,17 +50,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Goal">
+                <NP value="Goal" sf="locr">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="from">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Source">
+                <NP value="Source" sf="locir">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

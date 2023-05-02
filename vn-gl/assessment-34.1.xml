@@ -48,7 +48,7 @@
         </THEMROLE>
     </THEMROLES>
     <FRAMES>
-        <FRAME>
+        <FRAME sfcomment="Volitional perception is just perception">
             <DESCRIPTION descriptionNumber="0.2" primary="NP V NP" secondary="Basic Transitive" xtag=""/>
             <EXAMPLES>
                 <EXAMPLE>
@@ -56,11 +56,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -83,17 +83,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="for">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Attribute">
+                <NP value="Attribute" sf="xprt">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -116,17 +116,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="genitive"/>
                     </SYNRESTRS>
                 </NP>
                 <LEX value="'s"/>
-                <NP value="Attribute">
+                <NP value="Attribute" sf="xprt">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

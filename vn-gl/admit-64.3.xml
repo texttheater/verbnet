@@ -24,14 +24,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Location">
+                <NP value="Location" sf="msgr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -66,14 +66,14 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xsnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="msgd">
                             <SYNRESTRS/>
                         </NP>
-                        <NP value="Location">
+                        <NP value="Location" sf="msgr">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="adv_loc"/>
                             </SYNRESTRS>
@@ -98,11 +98,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xsnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="msgd">
                             <SYNRESTRS/>
                         </NP>
                         <PREP>
@@ -110,7 +110,7 @@
                                 <SELRESTR Value="+" type="loc"/>
                             </SELRESTRS>
                         </PREP>
-                        <NP value="Location">
+                        <NP value="Location" sf="msgr">
                             <SELRESTRS logic="or">
                                 <SELRESTR Value="+" type="location"/>
                                 <SELRESTR Value="-" type="region"/>

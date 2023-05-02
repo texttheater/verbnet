@@ -19,14 +19,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -62,14 +62,14 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Stimulus">
+                        <NP value="Stimulus" sf="msgd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
                         <PREP value="at">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Experiencer">
+                        <NP value="Experiencer" sf="xrcp">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -107,14 +107,14 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Stimulus">
+                        <NP value="Stimulus" sf="msgd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
                         <PREP value="on">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Experiencer">
+                        <NP value="Experiencer" sf="xrcp">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -151,7 +151,7 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Stimulus">
+                        <NP value="Stimulus" sf="msgd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>

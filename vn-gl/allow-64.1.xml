@@ -30,11 +30,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -57,11 +57,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="ac_ing"/>
                     </SYNRESTRS>
@@ -86,11 +86,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="poss_ing"/>
                     </SYNRESTRS>
@@ -124,14 +124,14 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xsnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Beneficiary">
+                        <NP value="Beneficiary" sf="xrcp">
                             <SYNRESTRS/>
                         </NP>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="msgr">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="oc_to_inf"/>
                             </SYNRESTRS>

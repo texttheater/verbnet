@@ -274,11 +274,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -306,7 +306,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -337,7 +337,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="mgsd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -366,14 +366,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="genitive"/>
                     </SYNRESTRS>
                 </NP>
                 <LEX value="'s"/>
                 <VERB/>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -401,14 +401,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Result">
+                <NP value="Result" sf="xrsr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

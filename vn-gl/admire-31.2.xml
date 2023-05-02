@@ -70,11 +70,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -102,17 +102,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SELRESTRS/>
                 </NP>
                 <PREP value="for">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Attribute">
+                <NP value="Attribute" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -140,11 +140,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -172,11 +172,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="that_comp"/>
                     </SYNRESTRS>
@@ -207,11 +207,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="be_sc_ing"/>
                     </SYNRESTRS>
@@ -241,11 +241,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="poss_ing"/>
                     </SYNRESTRS>
@@ -291,11 +291,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Experiencer">
+                        <NP value="Experiencer" sf="xrcp">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Stimulus">
+                        <NP value="Stimulus" sf="msgd">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="sc_to_inf"/>
                             </SYNRESTRS>

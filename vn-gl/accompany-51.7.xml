@@ -34,11 +34,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xanc">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -115,11 +115,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xanc">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP>
@@ -127,7 +127,7 @@
                         <SELRESTR Value="+" type="spatial"/>
                     </SELRESTRS>
                 </PREP>
-                <NP value="Destination">
+                <NP value="Destination" sf="locr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

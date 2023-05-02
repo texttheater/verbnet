@@ -26,7 +26,7 @@
         </THEMROLE>
     </THEMROLES>
     <FRAMES>
-        <FRAME>
+        <FRAME sfcomment="Another example of generic scn">
             <DESCRIPTION descriptionNumber="0.2" primary="NP V NP.location" secondary="Basic Transitive; Location Object" xtag=""/>
             <EXAMPLES>
                 <EXAMPLE>
@@ -34,11 +34,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Location">
+                <NP value="Location" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -60,11 +60,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -86,11 +86,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="scnr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="be_sc_ing"/>
                     </SYNRESTRS>
@@ -114,11 +114,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="scnr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="poss_ing"/>
                     </SYNRESTRS>

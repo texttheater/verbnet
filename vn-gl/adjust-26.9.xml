@@ -36,11 +36,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="cmpd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -87,17 +87,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="cmpd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Goal">
+                <NP value="Goal" sf="cmpr">
                     <SYNRESTRS>
                         <SYNRESTR Value="-" type="sentential"/>
                     </SYNRESTRS>
@@ -147,17 +147,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="cmpd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Goal">
+                <NP value="Goal" sf="cmpr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="oc_ing"/>
                     </SYNRESTRS>
@@ -198,7 +198,7 @@
                 </PRED>
 				</SEMANTICS>
         </FRAME>
-        <FRAME>
+        <FRAME sfcomment="Good example for Agent vs. domain">
             <DESCRIPTION descriptionNumber="8.1" primary="NP V S_ING" secondary="P-ING-SC; to-PP" xtag="0.2"/>
             <EXAMPLES>
                 <EXAMPLE>
@@ -206,14 +206,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="cmpd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Goal">
+                <NP value="Goal" sf="cmpr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="sc_ing"/>
                     </SYNRESTRS>
@@ -262,14 +262,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="cmpd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Goal">
+                <NP value="Goal" sf="cmpr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

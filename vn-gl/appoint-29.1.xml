@@ -31,7 +31,7 @@
         </THEMROLE>
     </THEMROLES>
     <FRAMES>
-        <FRAME>
+        <FRAME sfcomment="speech act (see also some earlier ones")>
             <DESCRIPTION descriptionNumber="" primary="NP V NP NP" secondary="NP-NP" xtag=""/>
             <EXAMPLES>
                 <EXAMPLE>
@@ -39,14 +39,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Result">
+                <NP value="Result" sf="msgr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -80,15 +80,15 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <LEX value="as"/>
-                <NP value="Result">
+                <NP value="Result" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="-" type="sentential"/>
                     </SYNRESTRS>
@@ -124,16 +124,16 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <LEX value="to"/>
                 <LEX value="be"/>
-                <NP value="Result">
+                <NP value="Result" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="-" type="sentential"/>
                     </SYNRESTRS>
@@ -169,11 +169,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
