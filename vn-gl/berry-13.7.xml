@@ -46,7 +46,7 @@
                 <EXAMPLE>The children berry in the summer.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="pssr">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -102,7 +102,7 @@
                 <EXAMPLE>The children went fishing.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="pssr">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>

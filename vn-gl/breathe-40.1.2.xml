@@ -38,7 +38,7 @@
     </EXAMPLE>
    </EXAMPLES>
    <SYNTAX>
-    <NP value="Agent">
+    <NP value="Agent" sf="locr" sfcomment="Illustrates our concrete bias when it comes to body processes">
      <SYNRESTRS/>
     </NP>
     <VERB/>
@@ -73,14 +73,14 @@
     </EXAMPLE>
    </EXAMPLES>
    <SYNTAX>
-    <NP value="Agent">
+    <NP value="Agent" sf="locir" sfcomment="this too">
      <SYNRESTRS/>
     </NP>
     <VERB/>
     <PREP value="on onto">
      <SELRESTRS/>
     </PREP>
-    <NP value="Destination">
+    <NP value="Destination" sf="locr">
      <SELRESTRS/>
     </NP>
    </SYNTAX>
@@ -154,11 +154,11 @@
     </EXAMPLE>
    </EXAMPLES>
    <SYNTAX>
-    <NP value="Agent">
+    <NP value="Agent" sf="locir">
      <SYNRESTRS/>
     </NP>
     <VERB/>
-    <NP value="Theme">
+    <NP value="Theme" sf="locd">
      <SYNRESTRS/>
     </NP>
    </SYNTAX>
@@ -232,17 +232,17 @@
     </EXAMPLE>
    </EXAMPLES>
    <SYNTAX>
-    <NP value="Agent">
+    <NP value="Agent" sf="locir">
      <SYNRESTRS/>
     </NP>
     <VERB/>
-    <NP value="Theme">
+    <NP value="Theme" sf="locd">
      <SYNRESTRS/>
     </NP>
     <PREP value="on onto">
      <SELRESTRS/>
     </PREP>
-    <NP value="Destination">
+    <NP value="Destination" sf="locr">
      <SELRESTRS/>
     </NP>
    </SYNTAX>
@@ -332,11 +332,11 @@
       </EXAMPLE>
      </EXAMPLES>
      <SYNTAX>
-      <NP value="Agent">
+      <NP value="Agent" sf="scnd" sfcomment="figura etymologica">
        <SYNRESTRS/>
       </NP>
       <VERB/>
-      <NP value="Theme">
+      <NP value="Theme" sf="scnr">
        <SYNRESTRS/>
       </NP>
      </SYNTAX>

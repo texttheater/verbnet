@@ -31,7 +31,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>

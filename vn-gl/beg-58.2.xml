@@ -29,11 +29,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Result">
+                <NP value="Result" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="sc_to_inf"/>
                     </SYNRESTRS>
@@ -58,11 +58,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Result">
+                <NP value="Result" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="sc_to_inf"/>
                     </SYNRESTRS>
@@ -101,14 +101,14 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xsnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
                         <PREP value="for">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Result">
+                        <NP value="Result" sf="msgr">
                             <SYNRESTRS>
                                 <SYNRESTR Value="-" type="sentential"/>
                             </SYNRESTRS>
@@ -147,17 +147,17 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xsnd">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Patient">
+                                <NP value="Patient" sf="xrcp">
                                     <SYNRESTRS/>
                                 </NP>
                                 <PREP value="for">
                                     <SELRESTRS/>
                                 </PREP>
-                                <NP value="Result">
+                                <NP value="Result" sf="msgr">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="-" type="sentential"/>
                                     </SYNRESTRS>

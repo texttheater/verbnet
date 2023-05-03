@@ -24,14 +24,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="against into onto">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Location">
+                <NP value="Location" sf="locr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -105,7 +105,7 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="locd">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="plural"/>
                             </SYNRESTRS>

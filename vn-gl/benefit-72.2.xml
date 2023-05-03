@@ -20,11 +20,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Causer">
+                <NP value="Causer" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Beneficiary">
+                <NP value="Beneficiary" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -57,7 +57,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Beneficiary">
+                <NP value="Beneficiary" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -91,14 +91,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Beneficiary">
+                <NP value="Beneficiary" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="from by">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Causer">
+                <NP value="Causer" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

@@ -30,7 +30,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="locd" sfcomment="or should this be scnd?">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -61,14 +61,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="locd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="from at">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

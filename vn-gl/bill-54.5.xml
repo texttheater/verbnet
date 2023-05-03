@@ -44,11 +44,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Recipient">
+                <NP value="Recipient" sf="socd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -71,14 +71,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Recipient">
+                <NP value="Recipient" sf="socd">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Asset">
+                <NP value="Asset" sf="socr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

@@ -27,14 +27,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Path">
+                <NP value="Path" sf="locmr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -102,14 +102,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Path">
+                <NP value="Path" sf="locmr">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -185,14 +185,14 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="locd">
                             <SYNRESTRS/>
                         </NP>
-                        <NP value="Goal">
+                        <NP value="Goal" sf="locr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -260,11 +260,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="locd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Goal">
+                        <NP value="Goal" sf="locr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -332,7 +332,7 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="locd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
@@ -341,7 +341,7 @@
                                 <SELRESTR Value="+" type="dir"/>
                             </SELRESTRS>
                         </PREP>
-                        <NP value="Path">
+                        <NP value="Path" sf="locr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -402,14 +402,14 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Path">
+                        <NP value="Path" sf="locr">
                             <SYNRESTRS/>
                         </NP>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="locd">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -479,7 +479,7 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="locd">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>

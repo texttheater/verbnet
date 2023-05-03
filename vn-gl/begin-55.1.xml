@@ -28,11 +28,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="scnr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="sc_to_inf"/>
                     </SYNRESTRS>
@@ -75,11 +75,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="scnr">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="be_sc_ing"/>
                             </SYNRESTRS>
@@ -128,7 +128,7 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="scnr">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
@@ -150,11 +150,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xcau">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="scnr">
                                     <SYNRESTRS/>
                                 </NP>
                             </SYNTAX>
@@ -187,14 +187,14 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="scnr">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
                                 <PREP value="with">
                                     <SELRESTRS/>
                                 </PREP>
-                                <NP value="Instrument">
+                                <NP value="Instrument" sf="ctx-of">
                                     <SYNRESTRS/>
                                 </NP>
                             </SYNTAX>
@@ -222,17 +222,17 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xcau">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="scnr">
                                     <SYNRESTRS/>
                                 </NP>
                                 <PREP value="with">
                                     <SELRESTRS/>
                                 </PREP>
-                                <NP value="Instrument">
+                                <NP value="Instrument" sf="ctx-of">
                                     <SYNRESTRS/>
                                 </NP>
                             </SYNTAX>
@@ -272,11 +272,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Instrument">
+                                <NP value="Instrument" sf="xctx-of">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="scnr">
                                     <SYNRESTRS/>
                                 </NP>
                             </SYNTAX>

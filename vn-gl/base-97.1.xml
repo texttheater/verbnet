@@ -30,17 +30,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="sucr">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="on">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Source">
+                <NP value="Source" sf="sucd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -74,17 +74,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="ctxd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="on">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Source">
+                <NP value="Source" sf="ctxr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wh_comp"/>
                     </SYNRESTRS>
@@ -120,17 +120,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="ctxd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="on">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Source">
+                <NP value="Source" sf="ctxr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="poss_ing"/>
                     </SYNRESTRS>
@@ -166,17 +166,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="ctxd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="on">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Source">
+                <NP value="Source" sf="ctxr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="ac_ing"/>
                     </SYNRESTRS>

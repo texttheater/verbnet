@@ -25,14 +25,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="locr">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="in">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

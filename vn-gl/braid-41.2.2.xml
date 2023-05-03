@@ -59,11 +59,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -105,11 +105,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

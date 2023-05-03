@@ -165,11 +165,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Destination">
+                <NP value="Destination" sf="locr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -225,17 +225,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Destination">
+                <NP value="Destination" sf="locr" sfcomment="There's analogous Material/Product alternations">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

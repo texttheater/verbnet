@@ -22,11 +22,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -66,14 +66,14 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
                         <PREP value="in | into">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Result">
+                        <NP value="Result" sf="scnr">
                             <SYNRESTRS>
                                 <SYNRESTR Value="-" type="sentential"/>
                             </SYNRESTRS>
@@ -114,11 +114,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Patient">
+                                <NP value="Patient" sf="scn">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Result">
+                                <NP value="Result" sf="scnr">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="-" type="sentential"/>
                                     </SYNRESTRS>

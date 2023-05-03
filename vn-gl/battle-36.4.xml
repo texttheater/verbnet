@@ -54,14 +54,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" ctx="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Agent">
+                <NP value="Co-Agent" ctx="xanc">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -104,7 +104,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="plural"/>
                     </SYNRESTRS>
@@ -136,20 +136,20 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Agent">
+                <NP value="Co-Agent" sf="xanc">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="xctx">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wh_comp"/>
                     </SYNRESTRS>
@@ -200,20 +200,20 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Agent">
+                <NP value="Co-Agent" sf="xanc">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="xctx">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="what_extract"/>
                     </SYNRESTRS>
@@ -257,20 +257,20 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Agent">
+                <NP value="Co-Agent" sf="xanc">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="xctx">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="what_inf"/>
                     </SYNRESTRS>
@@ -314,20 +314,20 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Agent">
+                <NP value="Co-Agent" sf="xanc">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="xctx">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wheth_inf"/>
                     </SYNRESTRS>
@@ -371,20 +371,20 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Agent">
+                <NP value="Co-Agent" sf="xanc">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="xctx">
                     <SYNRESTRS>
                         <SYNRESTR Value="-" type="sentential"/>
                     </SYNRESTRS>
@@ -428,7 +428,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="plural"/>
                     </SYNRESTRS>
@@ -437,7 +437,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Topic">
+                <NP value="Topic" sf="xctx">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="poss_ing"/>
                     </SYNRESTRS>
@@ -481,7 +481,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="plural"/>
                     </SYNRESTRS>
@@ -490,7 +490,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="xctx">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wh_comp"/>
                     </SYNRESTRS>
@@ -534,7 +534,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="plural"/>
                     </SYNRESTRS>
@@ -543,7 +543,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="xctx">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="what_extract"/>
                     </SYNRESTRS>
@@ -587,7 +587,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnx">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="plural"/>
                     </SYNRESTRS>
@@ -596,7 +596,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="xctx">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wheth_inf"/>
                     </SYNRESTRS>
@@ -640,7 +640,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="plural"/>
                     </SYNRESTRS>
@@ -649,7 +649,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="xctx">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="what_inf"/>
                     </SYNRESTRS>
@@ -693,7 +693,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="plural"/>
                     </SYNRESTRS>
@@ -702,7 +702,7 @@
                 <PREP value="about | over ">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="xctx">
                     <SYNRESTRS>
                         <SYNRESTR Value="-" type="sentential"/>
                     </SYNRESTRS>
@@ -761,11 +761,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Co-Agent">
+                        <NP value="Co-Agent" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -808,17 +808,17 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Co-Agent">
+                        <NP value="Co-Agent" sf="xanc">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="about | over">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="xctx">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -867,17 +867,17 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Co-Agent">
+                        <NP value="Co-Agent" sf="xanc">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="about | over">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="xctx">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -926,17 +926,17 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Co-Agent">
+                        <NP value="Co-Agent" sf="xanc">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="about | over">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="xctx">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -985,17 +985,17 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Co-Agent">
+                        <NP value="Co-Agent" sf="xanc">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="about | over">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="xctx">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -1044,17 +1044,17 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Co-Agent">
+                        <NP value="Co-Agent" sf="xanc">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="about | over">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="xctx">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
