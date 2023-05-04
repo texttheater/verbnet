@@ -121,7 +121,7 @@
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Instrument" sf="mnr">
+                <NP value="Instrument" sf="mns">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -431,7 +431,7 @@
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Instrument" sf="mnr">
+                <NP value="Instrument" sf="mns">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
