@@ -68,11 +68,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Co-Theme">
+                <NP value="Co-Theme" sf="locr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -108,11 +108,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="locd">
                             <SYNRESTRS/>
                         </NP>
                         <LEX value="and"/>
-                        <NP value="Co-Theme">
+                        <NP value="Co-Theme" sfcomment="not a dependent">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
@@ -144,7 +144,7 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="pssr">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>

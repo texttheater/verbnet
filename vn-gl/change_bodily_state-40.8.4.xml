@@ -35,7 +35,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="scnd" sfcomment="Also a sort of perception but the frame is more scn than msg">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -86,14 +86,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="from at">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="cau">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

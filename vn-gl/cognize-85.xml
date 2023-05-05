@@ -23,12 +23,12 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS>
                     </SYNRESTRS>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS>
                         <SYNRESTR Value="-" type="sentential"/>
                     </SYNRESTRS>
@@ -52,14 +52,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="of">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -81,14 +81,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="about">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd" sfcomment="msgd because about? whether?">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wh_comp"/>
                     </SYNRESTRS>
@@ -112,11 +112,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="that_comp"/>
                     </SYNRESTRS>

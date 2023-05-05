@@ -33,7 +33,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="locir">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>

@@ -33,11 +33,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xanc" sfcomment="This way we have the most consistency between syntactic frames. There is a pattern with resultatives where we have to decide whether to put the emphasis on the causing scene or on the resulting scene. In the former case, the resulting scene is made short work of using rsr.">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -108,11 +108,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xanc">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP>
@@ -120,7 +120,7 @@
                         <SELRESTR Value="+" type="spatial"/>
                     </SELRESTRS>
                 </PREP>
-                <NP value="Trajectory">
+                <NP value="Trajectory" sf="rsr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -191,14 +191,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xanc">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="after">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

@@ -26,11 +26,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="pssir">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Asset">
+                <NP value="Asset" sf="pssd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -73,14 +73,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="pssir">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Asset">
+                <NP value="Asset" sf="pssd">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Goal">
+                <NP value="Goal" sf="prp">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="sc_ing"/>
                     </SYNRESTRS>
@@ -137,17 +137,17 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="pssir">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Asset">
+                        <NP value="Asset" sf="pssd">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="on">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Goal">
+                        <NP value="Goal" sf="xprp">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="sc_ing"/>
                             </SYNRESTRS>
@@ -192,17 +192,17 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="pssir">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Asset">
+                        <NP value="Asset" sf="pssd">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="on">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Goal">
+                        <NP value="Goal" sf="xprp">
                             <SYNRESTRS>
                                 <SYNRESTR Value="-" type="sentential"/>
                             </SYNRESTRS>

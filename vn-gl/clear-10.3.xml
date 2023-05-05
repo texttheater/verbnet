@@ -34,11 +34,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Source">
+                <NP value="Source" sf="locir">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -107,11 +107,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP>
@@ -119,7 +119,7 @@
                         <SELRESTR Value="+" type="src"/>
                     </SELRESTRS>
                 </PREP>
-                <NP value="Source">
+                <NP value="Source" sf="locir">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -188,17 +188,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Source">
+                <NP value="Source" sf="locir">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="of">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="locd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -278,7 +278,7 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Source">
+                        <NP value="Source" sf="locir">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
@@ -349,7 +349,7 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="locd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
@@ -358,7 +358,7 @@
                                 <SELRESTR Value="+" type="src"/>
                             </SELRESTRS>
                         </PREP>
-                        <NP value="Source">
+                        <NP value="Source" sf="locir">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>

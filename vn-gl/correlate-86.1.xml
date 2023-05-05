@@ -28,7 +28,7 @@
                 <EXAMPLE>He alternates with keeping them.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Theme">
+                <NP value="Theme" sfcomment="Example makes no sense">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -57,17 +57,17 @@
                 <EXAMPLE>We alternated it with keeping them locked up.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="sucd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Theme">
+                <NP value="Co-Theme" sf="sucr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="ac_ing"/>
                     </SYNRESTRS>

@@ -25,11 +25,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -72,11 +72,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="scnir">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="be_sc_ing"/>
                             </SYNRESTRS>

@@ -61,15 +61,15 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <LEX value="as"/>
-                <NP value="Attribute">
+                <NP value="Attribute" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="oc_ing"/>
                     </SYNRESTRS>
@@ -105,15 +105,15 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <LEX value="to be"/>
-                <NP value="Attribute">
+                <NP value="Attribute" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="small_clause"/>
                     </SYNRESTRS>
@@ -149,17 +149,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="as">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Attribute">
+                <NP value="Attribute" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="-" type="sentential"/>
                     </SYNRESTRS>
@@ -206,11 +206,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xsnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="msgr">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="how_extract"/>
                             </SYNRESTRS>
@@ -246,11 +246,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xsnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="msgr">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="wh_inf"/>
                             </SYNRESTRS>
@@ -304,11 +304,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xsnd">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="msgd">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="+" type="ac_ing"/>
                                     </SYNRESTRS>
@@ -344,11 +344,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xsnd">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="msgr" sfcomment="There is a second, less plausible reading where this is msgd">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="+" type="what_extract"/>
                                     </SYNRESTRS>
@@ -384,11 +384,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xsnd">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="msgr">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="+" type="what_inf"/>
                                     </SYNRESTRS>
@@ -434,11 +434,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xsnd">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="msgr" sfcomment="msgd msgr if analyzed as dobj xcomp">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="+" type="np_ppart"/>
                                     </SYNRESTRS>
@@ -474,11 +474,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xsnd">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="msgr">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="+" type="wh_comp"/>
                                     </SYNRESTRS>
@@ -514,11 +514,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xsnd">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="msgr">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="+" type="what_extract"/>
                                     </SYNRESTRS>
@@ -554,11 +554,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xsnd">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="msgr">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="+" type="what_inf"/>
                                     </SYNRESTRS>

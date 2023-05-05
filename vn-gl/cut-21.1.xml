@@ -33,11 +33,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -97,17 +97,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Instrument">
+                <NP value="Instrument" sf="mns">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -167,12 +167,12 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <LEX value="at"/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -214,14 +214,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="through|into">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -281,18 +281,18 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <LEX value="at"/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Instrument">
+                <NP value="Instrument" sf="mns">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -335,7 +335,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -390,11 +390,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Instrument">
+                <NP value="Instrument" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -448,7 +448,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Instrument">
+                <NP value="Instrument" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -503,14 +503,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -577,20 +577,20 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Instrument">
+                <NP value="Instrument" sf="mns">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -657,17 +657,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="to into">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SELRESTRS>
                         <SELRESTR Value="+" type="state"/>
                     </SELRESTRS>
@@ -736,17 +736,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="to into">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SELRESTRS>
                         <SELRESTR Value="+" type="state"/>
                     </SELRESTRS>
@@ -754,7 +754,7 @@
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Instrument">
+                <NP value="Instrument" sf="mns">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -821,14 +821,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Instrument">
+                <NP value="Instrument" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -895,17 +895,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Instrument">
+                <NP value="Instrument" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="to into">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SELRESTRS>
                         <SELRESTR Value="+" type="state"/>
                     </SELRESTRS>
@@ -974,17 +974,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="whld">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="from">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Source">
+                <NP value="Source" sf="whlir">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -1051,23 +1051,23 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="whld">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="from">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Source">
+                <NP value="Source" sf="whlir">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Instrument">
+                <NP value="Instrument" sf="mns">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -1170,11 +1170,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -1227,11 +1227,15 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="scnd">
+                            <SYNRESTRS/>
+                        </NP>
+                        <LEX value="on"/>
+                        <NP value="Instrument" sf="mns">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>

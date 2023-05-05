@@ -21,11 +21,11 @@
     </EXAMPLE>
    </EXAMPLES>
    <SYNTAX>
-    <NP value="Pivot">
+    <NP value="Pivot" sf="locr">
      <SYNRESTRS/>
     </NP>
     <VERB/>
-    <NP value="Theme">
+    <NP value="Theme" sf="locd">
      <SYNRESTRS/>
     </NP>
    </SYNTAX>

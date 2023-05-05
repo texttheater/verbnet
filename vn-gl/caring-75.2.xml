@@ -31,11 +31,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="scnd" sfcomment="Example of a scene domain that is not necessarily affected">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -66,14 +66,14 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xcau">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
                                 <PREP value="to">
                                     <SELRESTRS/>
                                 </PREP>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="scnd">
                                     <SYNRESTRS/>
                                 </NP>
                             </SYNTAX>
@@ -107,14 +107,14 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
                         <PREP value="for">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>

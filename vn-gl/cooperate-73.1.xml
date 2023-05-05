@@ -37,7 +37,7 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Agent">
+						<NP value="Agent" sf="scnd">
 							<SYNRESTRS>
 								<SYNRESTR Value="+" type="plural" />
 							</SYNRESTRS>
@@ -46,7 +46,7 @@
 						<PREP value="on">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Theme">
+						<NP value="Theme" sf="scnr">
 							<SYNRESTRS>
 								<SYNRESTR Value="-" type="sentential" />
 							</SYNRESTRS>
@@ -71,20 +71,20 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Agent">
+						<NP value="Agent" sf="scnd">
 							<SYNRESTRS />
 						</NP>
 						<VERB />
 						<PREP value="with">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Co-Agent">
+						<NP value="Co-Agent" sf="xanc">
 							<SYNRESTRS />
 						</NP>
 						<PREP value="on">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Theme">
+						<NP value="Theme" sf="scnr">
 							<SYNRESTRS>
 								<SYNRESTR Value="-" type="sentential" />
 							</SYNRESTRS>
@@ -109,7 +109,7 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Agent">
+						<NP value="Agent" sf="scnd">
 							<SYNRESTRS>
 								<SYNRESTR Value="+" type="plural" />
 							</SYNRESTRS>
@@ -118,7 +118,7 @@
 						<PREP value="in">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Theme">
+						<NP value="Theme" sf="scnr">
 							<SYNRESTRS>
 								<SYNRESTR Value="-" type="sentential" />
 							</SYNRESTRS>
@@ -143,20 +143,20 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Agent">
+						<NP value="Agent" sf="scnd">
 							<SYNRESTRS />
 						</NP>
 						<VERB />
 						<PREP value="with">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Co-Agent">
+						<NP value="Co-Agent" sf="xanc">
 							<SYNRESTRS />
 						</NP>
 						<PREP value="in">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Theme">
+						<NP value="Theme" sf="scnr">
 							<SYNRESTRS>
 								<SYNRESTR Value="-" type="sentential" />
 							</SYNRESTRS>
@@ -181,7 +181,7 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Agent">
+						<NP value="Agent" sf="scnd">
 							<SYNRESTRS>
 								<SYNRESTR Value="+" type="plural" />
 							</SYNRESTRS>
@@ -190,7 +190,7 @@
 						<PREP value="in">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Theme">
+						<NP value="Theme" sf="scnr">
 							<SYNRESTRS>
 								<SYNRESTR Value="+" type="sc_ing" />
 							</SYNRESTRS>
@@ -224,7 +224,7 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Agent">
+						<NP value="Agent" sf="scnd">
 							<SYNRESTRS>
 								<SYNRESTR Value="+" type="plural" />
 							</SYNRESTRS>
@@ -233,7 +233,7 @@
 						<PREP value="in">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Theme">
+						<NP value="Theme" sf="scnr">
 							<SYNRESTRS>
 								<SYNRESTR Value="-" type="sentential" />
 							</SYNRESTRS>
@@ -258,7 +258,7 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Agent">
+						<NP value="Agent" sf="scnd">
 							<SYNRESTRS>
 								<SYNRESTR Value="+" type="plural" />
 							</SYNRESTRS>
@@ -267,7 +267,7 @@
 						<PREP value="in">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Theme">
+						<NP value="Theme" sf="scnr">
 							<SYNRESTRS>
 								<SYNRESTR Value="+" type="sc_ing" />
 							</SYNRESTRS>
@@ -302,7 +302,7 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Agent">
+						<NP value="Agent" sf="scnd">
 							<SYNRESTRS>
 								<SYNRESTR Value="+" type="plural" />
 							</SYNRESTRS>
@@ -311,7 +311,7 @@
 						<PREP value="on">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Theme">
+						<NP value="Theme" sf="scnr">
 							<SYNRESTRS>
 								<SYNRESTR Value="-" type="sentential" />
 							</SYNRESTRS>
@@ -336,20 +336,20 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Agent">
+						<NP value="Agent" sf="scnd">
 							<SYNRESTRS />
 						</NP>
 						<VERB />
 						<PREP value="with">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Co-Agent">
+						<NP value="Co-Agent" sf="xanc">
 							<SYNRESTRS />
 						</NP>
 						<PREP value="on">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Theme">
+						<NP value="Theme" sf="scnr">
 							<SYNRESTRS>
 								<SYNRESTR Value="-" type="sentential" />
 							</SYNRESTRS>
@@ -374,7 +374,7 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Agent">
+						<NP value="Agent" sf="scnd">
 							<SYNRESTRS>
 								<SYNRESTR Value="+" type="plural" />
 							</SYNRESTRS>
@@ -383,7 +383,7 @@
 						<PREP value="at">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Theme">
+						<NP value="Theme" sf="scnr">
 							<SYNRESTRS>
 								<SYNRESTR Value="+" type="sc_ing" />
 							</SYNRESTRS>
@@ -408,20 +408,20 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Agent">
+						<NP value="Agent" sf="scnd">
 							<SYNRESTRS />
 						</NP>
 						<VERB />
 						<PREP value="with">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Co-Agent">
+						<NP value="Co-Agent" sf="xanc">
 							<SYNRESTRS />
 						</NP>
 						<PREP value="at">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Theme">
+						<NP value="Theme" sf="scnr">
 							<SYNRESTRS>
 								<SYNRESTR Value="+" type="sc_ing" />
 							</SYNRESTRS>

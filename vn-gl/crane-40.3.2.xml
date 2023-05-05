@@ -79,11 +79,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="locd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -159,11 +159,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="locd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP>
@@ -171,7 +171,7 @@
                         <SELRESTR Value="+" type="dest_dir"/>
                     </SELRESTRS>
                 </PREP>
-                <NP value="Recipient">
+                <NP value="Recipient" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -247,11 +247,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="locd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP>
@@ -259,13 +259,13 @@
                         <SELRESTR Value="+" type="dest_dir"/>
                     </SELRESTRS>
                 </PREP>
-                <NP value="Recipient">
+                <NP value="Recipient" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="in">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Topic">
+                <NP value="Topic" sf="xprp">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

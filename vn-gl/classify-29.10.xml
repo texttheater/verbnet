@@ -44,11 +44,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd" sf="msg more descriptive, soc more prescriptive">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -82,17 +82,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="as">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Goal">
+                <NP value="Goal" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="-" type="sentential"/>
                     </SYNRESTRS>
@@ -128,17 +128,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="in">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Goal">
+                <NP value="Goal" sf="msgr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

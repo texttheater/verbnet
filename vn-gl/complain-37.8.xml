@@ -45,7 +45,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -89,14 +89,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Recipient">
+                <NP value="Recipient" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -139,11 +139,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Topic">
+                <NP value="Topic" sf="msgd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="that_comp"/>
                     </SYNRESTRS>
@@ -188,17 +188,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Recipient">
+                <NP value="Recipient" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Topic">
+                <NP value="Topic" sf="msgd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="that_comp"/>
                     </SYNRESTRS>
@@ -243,14 +243,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="about">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Topic">
+                <NP value="Topic" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -293,20 +293,20 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="about">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Topic">
+                <NP value="Topic" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Recipient">
+                <NP value="Recipient" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -349,11 +349,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Topic">
+                <NP value="Topic" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="quotation"/>
                     </SYNRESTRS>
@@ -398,17 +398,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Recipient">
+                <NP value="Recipient" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Topic">
+                <NP value="Topic" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="quotation"/>
                     </SYNRESTRS>
@@ -453,20 +453,20 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Recipient">
+                <NP value="Recipient" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="about">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Topic">
+                <NP value="Topic" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

@@ -35,11 +35,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Source">
+                <NP value="Source" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -96,17 +96,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xsnd" sfcomment="As with chase: using the causing scene as the main frame may be better because the resulting one is optional; we get more consistency between syntactic frames.">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Source">
+                <NP value="Source" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="out_of">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="rsr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -175,17 +175,17 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xsnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Source">
+                        <NP value="Source" sf="xrcp">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="for">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="xrsr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -254,17 +254,17 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xcau" sfcomment="Different subclass, different superframe">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme">
+                                <NP value="Theme" sf="pssd">
                                     <SYNRESTRS/>
                                 </NP>
                                 <PREP value="from">
                                     <SELRESTRS/>
                                 </PREP>
-                                <NP value="Source">
+                                <NP value="Source" sf="pssir">
                                     <SYNRESTRS>
                                         <SYNRESTR Value="-" type="sentential"/>
                                     </SYNRESTRS>

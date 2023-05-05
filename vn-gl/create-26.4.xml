@@ -58,11 +58,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -115,17 +115,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="from out_of">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Material">
+                <NP value="Material" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -178,17 +178,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="for">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Beneficiary">
+                <NP value="Beneficiary" sf="ben">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -247,15 +247,15 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
                 <LEX value="as"/>
-                <NP value="Attribute">
+                <NP value="Attribute" sf="xdpc">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -330,7 +330,7 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
@@ -384,14 +384,14 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="xcau">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Beneficiary">
+                                <NP value="Beneficiary" sf="ben">
                                     <SYNRESTRS/>
                                 </NP>
-                                <NP value="Result">
+                                <NP value="Result" sf="scnr">
                                     <SYNRESTRS/>
                                 </NP>
                             </SYNTAX>

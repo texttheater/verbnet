@@ -31,11 +31,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="socd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="socr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -68,14 +68,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="socd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="socr">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Beneficiary">
+                <NP value="Beneficiary" sf="ben" sfcomment="If verb dependent">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

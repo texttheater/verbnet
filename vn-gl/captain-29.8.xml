@@ -31,14 +31,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="socd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="for">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Beneficiary">
+                <NP value="Beneficiary" sf="socr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -108,11 +108,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xsnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Beneficiary">
+                        <NP value="Beneficiary" sf="xrcp">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -148,11 +148,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Beneficiary">
+                                <NP value="Beneficiary" sf="socr">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Agent">
+                                <NP value="Agent" sf="socd">
                                     <SYNRESTRS/>
                                 </NP>
                             </SYNTAX>

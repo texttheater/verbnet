@@ -28,11 +28,11 @@
                 <EXAMPLE>I understood how she did it.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgr">
                     <SYNRESTRS>
 			<SYNRESTR Value="+" type="how_extract"/>
 		    </SYNRESTRS>
@@ -54,11 +54,11 @@
                 <EXAMPLE>I understood the problem.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -84,17 +84,17 @@
                 <EXAMPLE>I understood it as a joke.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="as">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Attribute">
+                <NP value="Attribute" sf="msgr">
                     <SYNRESTRS>
                     </SYNRESTRS>
                 </NP>
@@ -122,11 +122,11 @@
                 <EXAMPLE>I understood their wanting more minutes.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="poss_ing"/>
                     </SYNRESTRS>
@@ -154,11 +154,11 @@
                 <EXAMPLE>I understood why we should help them.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wh_comp"/>
                     </SYNRESTRS>
@@ -186,11 +186,11 @@
                 <EXAMPLE>I understood what we should do.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="what_extract"/>
                     </SYNRESTRS>
@@ -218,11 +218,11 @@
                 <EXAMPLE>I understood that he is a good doctor.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Experiencer">
+                <NP value="Experiencer" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Stimulus">
+                <NP value="Stimulus" sf="msgr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="that_comp"/>
                     </SYNRESTRS>
@@ -267,11 +267,11 @@
                         <EXAMPLE>I understood wanting more.</EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Experiencer">
+                        <NP value="Experiencer" sf="xrcp">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Stimulus">
+                        <NP value="Stimulus" sf="msgd">
                             <SYNRESTRS>
                                 <SYNRESTR Value="+" type="ac_ing"/>
                             </SYNRESTRS>
@@ -299,11 +299,11 @@
                     <EXAMPLE>I understood how to do it.</EXAMPLE>
                 </EXAMPLES>
                 <SYNTAX>
-                    <NP value="Experiencer">
+                    <NP value="Experiencer" sf="xrcp">
                         <SYNRESTRS/>
                     </NP>
                     <VERB/>
-                    <NP value="Stimulus">
+                    <NP value="Stimulus" sf="msgr">
                         <SYNRESTRS>
                             <SYNRESTR Value="+" type="wh_inf"/>
                         </SYNRESTRS>
@@ -331,11 +331,11 @@
                     <EXAMPLE>I understood him to be a good doctor.</EXAMPLE>
                 </EXAMPLES>
                 <SYNTAX>
-                    <NP value="Experiencer">
+                    <NP value="Experiencer" sf="xrcp">
                         <SYNRESTRS/>
                     </NP>
                     <VERB/>
-                    <NP value="Stimulus">
+                    <NP value="Stimulus" sf="msgr">
                         <SYNRESTRS>
                             <SYNRESTR Value="+" type="to_be"/>
                         </SYNRESTRS>
@@ -371,7 +371,7 @@
                         <EXAMPLE>I understand.</EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Experiencer">
+                        <NP value="Experiencer" sf="xrcp">
                              <SYNRESTRS/>
                         </NP>
                         <VERB/>
@@ -401,14 +401,14 @@
                             <EXAMPLE>She understood about life.</EXAMPLE>
                         </EXAMPLES>
                         <SYNTAX>
-                            <NP value="Experiencer">
+                            <NP value="Experiencer" sf="xrcp">
                                <SYNRESTRS/>
                             </NP>
                             <VERB/>
                             <PREP value="about | of">
                                 <SELRESTRS/>
                             </PREP>
-                            <NP value="Stimulus">
+                            <NP value="Stimulus" sf="msgd">
                                 <SYNRESTRS/>
                             </NP>
                         </SYNTAX>
@@ -457,14 +457,14 @@
                             <EXAMPLE>I knew about what to do.</EXAMPLE>
                         </EXAMPLES>
                         <SYNTAX>
-                            <NP value="Experiencer">
+                            <NP value="Experiencer" sf="xrcp">
                                 <SYNRESTRS/>
                             </NP>
                             <VERB/>
                             <PREP value="about | of">
                                 <SELRESTRS/>
                             </PREP>
-                            <NP value="Stimulus">
+                            <NP value="Stimulus" sf="msgr">
                                 <SYNRESTRS>
                                     <SYNRESTR Value="+" type="wh_inf"/>
                                 </SYNRESTRS>
@@ -486,14 +486,14 @@
                             <EXAMPLE>I knew about what he should do.</EXAMPLE>
                         </EXAMPLES>
                         <SYNTAX>
-                            <NP value="Experiencer">
+                            <NP value="Experiencer" sf="xrcp">
                                 <SYNRESTRS/>
                             </NP>
                             <VERB/>
                             <PREP value="about | of">
                                 <SELRESTRS/>
                             </PREP>
-                            <NP value="Stimulus">
+                            <NP value="Stimulus" sf="msgr">
                                 <SYNRESTRS>
                                     <SYNRESTR Value="+" type="wh_extract"/>
                                 </SYNRESTRS>
@@ -515,14 +515,14 @@
                             <EXAMPLE>I understood this about her."</EXAMPLE>
                         </EXAMPLES>
                         <SYNTAX>
-                            <NP value="Experiencer">
+                            <NP value="Experiencer" sf="xrcp">
                                 <SYNRESTRS/>
                             </NP>
                             <VERB/>
-                            <NP value="Stimulus">
+                            <NP value="Stimulus" sf="msgr">
                                 <SYNRESTRS/>
                             </NP>
-                            <PREP value="about">
+                            <PREP value="about" sf="msgd">
                                 <SELRESTRS/>
                             </PREP>
                         </SYNTAX>

@@ -30,11 +30,11 @@
                 <EXAMPLE>The book costs $10.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Theme">
+                <NP value="Theme" sf="pssd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Value">
+                <NP value="Value" sf="xast">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -54,14 +54,14 @@
                 <EXAMPLE>The bill will cost them 500 million dollars.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Theme">
+                <NP value="Theme" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Beneficiary">
+                <NP value="Beneficiary" sf="pssir">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Value">
+                <NP value="Value" sf="pssd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

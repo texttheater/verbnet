@@ -33,20 +33,20 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Causer">
+                <NP value="Causer" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Extent">
+                <NP value="Extent" sf="xqnt">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Initial_State">
+                <NP value="Initial_State" sf="scnir">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -109,20 +109,20 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Causer">
+                <NP value="Causer" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Extent">
+                <NP value="Extent" sf="xqnt">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Initial_State">
+                <NP value="Initial_State" sf="scnir">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Result">
+                <NP value="Result" sf="scnr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -202,11 +202,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Causer">
+                        <NP value="Causer" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -270,7 +270,7 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
@@ -317,7 +317,7 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
@@ -363,23 +363,23 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Extent">
+                        <NP value="Extent" sf="xqnt">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="?from">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="?Initial_State">
+                        <NP value="?Initial_State" sf="scnir">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="?to">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="?Result">
+                        <NP value="?Result" sf="scnr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -424,26 +424,26 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
                         <PREP value="?by">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="?Extent">
+                        <NP value="?Extent" sf="xqnt">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="?from">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="?Initial_State">
+                        <NP value="?Initial_State" sf="scnir">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="?to">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="?Result">
+                        <NP value="?Result" sf="scnr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -488,29 +488,29 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Attribute">
+                        <NP value="Attribute" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="of">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="scnd" sfcomment="not a verb dependent">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="?Extent">
+                        <NP value="?Extent" sf="xqnt">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="?from">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="?Initial_State">
+                        <NP value="?Initial_State" sf="scnir">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="?to">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="?Result">
+                        <NP value="?Result" sf="scnr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -555,32 +555,32 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Attribute">
+                        <NP value="Attribute" sf="scnd">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="of">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Patient">
+                        <NP value="Patient" sf="scnd" sfcomment="not a verb dependent">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
                         <PREP value="by">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Extent">
+                        <NP value="Extent" sf="xqnt">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="?from">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="?Initial_State">
+                        <NP value="?Initial_State" sf="scnir">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="?to">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="?Result">
+                        <NP value="?Result" sf="scnr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>

@@ -41,11 +41,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau" sfcomment="What if it was intransitive? Still xcau but then we don't know the superframe. Should we have locc, msgs, msgp? :(">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="locr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -88,14 +88,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="locr">
                     <SYNRESTRS/>
                 </NP>
-                <NP value="Result">
+                <NP value="Result" sf="xrsr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -145,17 +145,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="locr">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="to into">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Result">
+                <NP value="Result" sf="rsr">
                     <SELRESTRS>
                         <SELRESTR Value="+" type="state"/>
                     </SELRESTRS>
