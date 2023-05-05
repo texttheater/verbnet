@@ -187,14 +187,14 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Theme" sf="scnr">
+                                <NP value="Theme" sf="whlr">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
                                 <PREP value="with">
                                     <SELRESTRS/>
                                 </PREP>
-                                <NP value="Instrument" sf="ctx-of">
+                                <NP value="Instrument" sf="whld">
                                     <SYNRESTRS/>
                                 </NP>
                             </SYNTAX>
@@ -226,13 +226,13 @@
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme" sf="scnr">
+                                <NP value="Theme" sf="whlr">
                                     <SYNRESTRS/>
                                 </NP>
                                 <PREP value="with">
                                     <SELRESTRS/>
                                 </PREP>
-                                <NP value="Instrument" sf="ctx-of">
+                                <NP value="Instrument" sf="whld">
                                     <SYNRESTRS/>
                                 </NP>
                             </SYNTAX>
@@ -272,11 +272,11 @@
                                 </EXAMPLE>
                             </EXAMPLES>
                             <SYNTAX>
-                                <NP value="Instrument" sf="xctx-of">
+                                <NP value="Instrument" sf="whld">
                                     <SYNRESTRS/>
                                 </NP>
                                 <VERB/>
-                                <NP value="Theme" sf="scnr">
+                                <NP value="Theme" sf="whlr">
                                     <SYNRESTRS/>
                                 </NP>
                             </SYNTAX>

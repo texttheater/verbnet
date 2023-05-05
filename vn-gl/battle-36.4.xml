@@ -54,14 +54,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent" ctx="scnd">
+                <NP value="Agent" sf="scnd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Agent" ctx="xanc">
+                <NP value="Co-Agent" sf="xanc">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -149,7 +149,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme" sf="xctx">
+                <NP value="Theme" sf="xprp">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wh_comp"/>
                     </SYNRESTRS>
@@ -213,7 +213,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme" sf="xctx">
+                <NP value="Theme" sf="xprp">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="what_extract"/>
                     </SYNRESTRS>
@@ -270,7 +270,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme" sf="xctx">
+                <NP value="Theme" sf="xprp">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="what_inf"/>
                     </SYNRESTRS>
@@ -327,7 +327,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme" sf="xctx">
+                <NP value="Theme" sf="xprp">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wheth_inf"/>
                     </SYNRESTRS>
@@ -384,7 +384,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme" sf="xctx">
+                <NP value="Theme" sf="xprp">
                     <SYNRESTRS>
                         <SYNRESTR Value="-" type="sentential"/>
                     </SYNRESTRS>
@@ -437,7 +437,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Topic" sf="xctx">
+                <NP value="Topic" sf="xprp">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="poss_ing"/>
                     </SYNRESTRS>
@@ -490,7 +490,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme" sf="xctx">
+                <NP value="Theme" sf="xprp">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wh_comp"/>
                     </SYNRESTRS>
@@ -543,7 +543,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme" sf="xctx">
+                <NP value="Theme" sf="xprp">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="what_extract"/>
                     </SYNRESTRS>
@@ -596,7 +596,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme" sf="xctx">
+                <NP value="Theme" sf="xprp">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wheth_inf"/>
                     </SYNRESTRS>
@@ -649,7 +649,7 @@
                 <PREP value="about | over">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme" sf="xctx">
+                <NP value="Theme" sf="xprp">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="what_inf"/>
                     </SYNRESTRS>
@@ -702,7 +702,7 @@
                 <PREP value="about | over ">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme" sf="xctx">
+                <NP value="Theme" sf="xprp">
                     <SYNRESTRS>
                         <SYNRESTR Value="-" type="sentential"/>
                     </SYNRESTRS>
@@ -818,7 +818,7 @@
                         <PREP value="about | over">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme" sf="xctx">
+                        <NP value="Theme" sf="xprp">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -877,7 +877,7 @@
                         <PREP value="about | over">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme" sf="xctx">
+                        <NP value="Theme" sf="xprp">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -936,7 +936,7 @@
                         <PREP value="about | over">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme" sf="xctx">
+                        <NP value="Theme" sf="xprp">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -995,7 +995,7 @@
                         <PREP value="about | over">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme" sf="xctx">
+                        <NP value="Theme" sf="xprp">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -1054,7 +1054,7 @@
                         <PREP value="about | over">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme" sf="xctx">
+                        <NP value="Theme" sf="xprp">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>

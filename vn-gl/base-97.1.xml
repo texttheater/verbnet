@@ -78,13 +78,13 @@
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme" sf="ctxd">
+                <NP value="Theme" sf="sucd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="on">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Source" sf="ctxr">
+                <NP value="Source" sf="sucr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="wh_comp"/>
                     </SYNRESTRS>
@@ -124,13 +124,13 @@
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme" sf="ctxd">
+                <NP value="Theme" sf="sucd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="on">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Source" sf="ctxr">
+                <NP value="Source" sf="sucr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="poss_ing"/>
                     </SYNRESTRS>
@@ -170,13 +170,13 @@
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme" sf="ctxd">
+                <NP value="Theme" sf="sucd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="on">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Source" sf="ctxr">
+                <NP value="Source" sf="sucr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="ac_ing"/>
                     </SYNRESTRS>
