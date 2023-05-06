@@ -35,7 +35,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="locr">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -58,14 +58,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="locr">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="on">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Patient">
+                <NP value="Patient" sf="locd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

@@ -49,14 +49,14 @@
 				</EXAMPLE>
 			</EXAMPLES>
 			<SYNTAX>
-				<NP value="Agent">
+				<NP value="Agent" sf="xcau" sfcomment="frame this as soc, yes? cf. cost">
 					<SYNRESTRS />
 				</NP>
 				<VERB />
-				<NP value="Theme">
+				<NP value="Theme" sf="socd">
 					<SYNRESTRS />
 				</NP>
-				<NP value="Result">
+				<NP value="Result" sf="socr">
 					<SYNRESTRS />
 				</NP>
 			</SYNTAX>
@@ -98,11 +98,11 @@
 				</EXAMPLE>
 			</EXAMPLES>
 			<SYNTAX>
-				<NP value="Agent">
+				<NP value="Agent" sf="xsnd">
 					<SYNRESTRS />
 				</NP>
 				<VERB />
-				<NP value="Theme">
+				<NP value="Theme" sf="socd">
 					<SYNRESTRS />
 				</NP>
 			</SYNTAX>

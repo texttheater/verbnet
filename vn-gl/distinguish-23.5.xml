@@ -25,11 +25,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xrcp">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="cmpd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -67,11 +67,11 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xrcp">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="cmpd">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -101,17 +101,17 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Instrument">
+                        <NP value="Instrument" sf="xcau">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="cmpd">
                             <SYNRESTRS/>
                         </NP>
                         <PREP value="from">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Co-Theme">
+                        <NP value="Co-Theme" sf="cmpr">
                             <SYNRESTRS/>
                         </NP>
                     </SYNTAX>
@@ -141,18 +141,15 @@
                         </EXAMPLE>
                     </EXAMPLES>
                     <SYNTAX>
-                        <NP value="Agent">
+                        <NP value="Agent" sf="xrcp">
                             <SYNRESTRS/>
                         </NP>
                         <VERB/>
                         <PREP value="between">
                             <SELRESTRS/>
                         </PREP>
-                        <NP value="Theme">
+                        <NP value="Theme" sf="cmpd">
                             <SYNRESTRS/>
-                        </NP>
-                        <NP value="Co-Theme">
-                            <SELRESTRS/>
                         </NP>
                     </SYNTAX>
                     <SEMANTICS>

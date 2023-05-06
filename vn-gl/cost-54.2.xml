@@ -30,7 +30,7 @@
                 <EXAMPLE>The book costs $10.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Theme" sf="pssd">
+                <NP value="Theme" sf="pssd" sfcomment="ok?">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>

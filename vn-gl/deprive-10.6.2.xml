@@ -45,11 +45,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="pssr" sfcomment="core over non-core">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Source">
+                <NP value="Source" sf="pssir">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -106,17 +106,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="pssr">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Source">
+                <NP value="Source" sf="pssir">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="of">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Theme">
+                <NP value="Theme" sf="pssd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

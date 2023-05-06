@@ -76,14 +76,14 @@
 						</EXAMPLE>
 					</EXAMPLES>
 					<SYNTAX>
-						<NP value="Patient">
+						<NP value="Patient" sf="scnd">
 							<SYNRESTRS />
 						</NP>
 						<VERB />
 						<PREP value="of | from">
 							<SELRESTRS />
 						</PREP>
-						<NP value="Causer">
+						<NP value="Causer" sf="xcau">
 							<SYNRESTRS />
 						</NP>
 					</SYNTAX>

@@ -80,11 +80,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Source">
+                <NP value="Source" sf="whlir" sfcomment="shadow argument considered">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

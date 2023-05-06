@@ -23,14 +23,14 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Theme">
+                <NP value="Theme" sf="cmpd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="from with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Theme">
+                <NP value="Co-Theme" sf="cmpr">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -52,7 +52,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Theme">
+                <NP value="Theme" sf="cmpd">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="plural"/>
                     </SYNRESTRS>

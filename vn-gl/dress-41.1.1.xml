@@ -42,7 +42,7 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="locr">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
@@ -91,11 +91,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="locr" sf="Good example of keeping *core roles* consistent across syntactic frames, rather than Agent.">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>
@@ -137,11 +137,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="locr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="refl"/>
                     </SYNRESTRS>

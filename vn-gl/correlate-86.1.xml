@@ -25,17 +25,17 @@
         <FRAME>
             <DESCRIPTION descriptionNumber="8.1" primary="NP V S_ING" secondary="P-ING-AC; with-PP" xtag="0.2"/>
             <EXAMPLES>
-                <EXAMPLE>He alternates with keeping them.</EXAMPLE>
+                <EXAMPLE>It alternates with keeping them.</EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Theme" sfcomment="Example makes no sense">
+                <NP value="Theme" sf="sucd">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
                 <PREP value="with">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Co-Theme">
+                <NP value="Co-Theme" sf="sucr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="ac_ing"/>
                     </SYNRESTRS>

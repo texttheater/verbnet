@@ -28,11 +28,11 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="locr" sfcomment="ingestion as loc">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Patient">
+                <NP value="Patient" sf="locd">
                     <SYNRESTRS/>
                 </NP>
             </SYNTAX>

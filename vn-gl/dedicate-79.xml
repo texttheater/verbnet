@@ -27,17 +27,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="socd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Goal">
+                <NP value="Goal" sf="socr">
                     <SYNRESTRS>
                         <SYNRESTR Value="+" type="sc_ing"/>
                     </SYNRESTRS>
@@ -62,17 +62,17 @@
                 </EXAMPLE>
             </EXAMPLES>
             <SYNTAX>
-                <NP value="Agent">
+                <NP value="Agent" sf="xcau">
                     <SYNRESTRS/>
                 </NP>
                 <VERB/>
-                <NP value="Theme">
+                <NP value="Theme" sf="socd">
                     <SYNRESTRS/>
                 </NP>
                 <PREP value="to">
                     <SELRESTRS/>
                 </PREP>
-                <NP value="Goal">
+                <NP value="Goal" sf="socr">
                     <SYNRESTRS>
                         <SYNRESTR Value="-" type="sentential"/>
                     </SYNRESTRS>

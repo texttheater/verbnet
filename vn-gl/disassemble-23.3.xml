@@ -71,11 +71,11 @@
 				</EXAMPLE>
 			</EXAMPLES>
 			<SYNTAX>
-				<NP value="Agent">
+				<NP value="Agent" sf="xcau">
 					<SYNRESTRS />
 				</NP>
 				<VERB />
-				<NP value="Patient">
+				<NP value="Patient" sf="locd">
 					<SYNRESTRS />
 				</NP>
 			</SYNTAX>
@@ -117,17 +117,17 @@
 				</EXAMPLE>
 			</EXAMPLES>
 			<SYNTAX>
-				<NP value="Agent">
+				<NP value="Agent" sf="xcau">
 					<SYNRESTRS />
 				</NP>
 				<VERB />
-				<NP value="Patient">
+				<NP value="Patient" sf="locd">
 					<SYNRESTRS />
 				</NP>
 				<PREP value="from">
 					<SELRESTRS />
 				</PREP>
-				<NP value="Co-Patient">
+				<NP value="Co-Patient" sf="locir">
 					<SYNRESTRS />
 				</NP>
 			</SYNTAX>
@@ -169,7 +169,7 @@
 				</EXAMPLE>
 			</EXAMPLES>
 			<SYNTAX>
-				<NP value="Patient">
+				<NP value="Patient" sf="locd">
 					<SYNRESTRS>
 						<SYNRESTR Value="+" type="plural" />
 					</SYNRESTRS>
